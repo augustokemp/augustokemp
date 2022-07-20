@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kemp</h1>
 <h3 align="center">FullStack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustokemp&label=Profile%20views&color=0e75b6&style=flat" alt="augustokemp" /> </p>eeee
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustokemp&label=Profile%20views&color=0e75b6&style=flat" alt="augustokemp" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=augustokemp)](https://github.com/ryo-ma/github-profile-trophy)
 
