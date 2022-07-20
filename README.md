@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustokemp" alt="augustokemp" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=augustokemp)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [knn-brasil](https://github.com/knn-brasil)
 
 <h3 align="left">Connect with me:</h3>
