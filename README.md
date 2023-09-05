@@ -6,8 +6,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/ca84bede-543b-4532-89d1-8595e92a204f.svg)](https://wakatime.com/@ca84bede-543b-4532-89d1-8595e92a204f)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustokemp&count_private=true&show_icons=true&theme=cobalt&hide=prs,issues,contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on [knn-brasil](https://github.com/knn-brasil)
 
 <h3 align="left">Connect with me:</h3>
